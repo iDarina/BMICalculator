@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 250px;
+    background-color: #212121;
+}
+
+form {
+    display: inline-block;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+input {
+    margin: 10px 0;
+    padding: 8px;
+    width: 200px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+
+
+#result {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #fff;
+}
+
+h1 {
+    color: #fff
+}
